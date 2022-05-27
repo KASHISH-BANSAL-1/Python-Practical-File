@@ -1,3 +1,6 @@
+
+Write a python program to find LCM of two no. using function.
+
 def calculate_lcm(x, y):  
     if x > y:  
         greater = x  
